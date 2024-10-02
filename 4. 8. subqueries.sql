@@ -1,0 +1,2 @@
+-- SELECT * FROM TablaA WHERE (Sub Query from Tabla B)
+-- Nota: son ineficientes
